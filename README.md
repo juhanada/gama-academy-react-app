@@ -3,8 +3,8 @@
 ## Descrição do Projeto
 Este projeto é um App React que busca um usuário na API do GitHub e exibe seus repositórios. 
 
-Buscando usuario
 ![](buscausuario.gif)
+Buscando usuario
 
 ## Pré-requisitos
 * git
